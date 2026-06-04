@@ -1,0 +1,11 @@
+Structuring (smurfing): Breaking large amounts of cash into smaller deposits specifically to avoid the €10,000 reporting threshold. Typically involves multiple branches or multiple consecutive days. Red flags include deposits between €7,000–€9,900 repeated 3 or more times in a short period.
+
+Layering: Moving money through multiple accounts or transactions to obscure the original criminal source. Often involves rapid consecutive transfers between accounts, use of shell companies, or transfers across multiple countries. The goal is to make dirty money look like legitimate business transactions.
+
+Money mule pattern: A person who receives funds into their account from multiple sources and forwards them to another account, knowingly or unknowingly. Account receives many small inbound transfers then sends one large outbound transfer matching the total received. Common in online fraud and drug trafficking networks.
+
+Rapid fund movement: Funds deposited and withdrawn within 24–48 hours with no apparent business purpose. Common in pass-through accounts used for laundering. The account acts as a relay rather than holding funds for any normal reason.
+
+Dormant account activation: Account with no activity for 90 or more days suddenly receives large transfers. High risk indicator especially when combined with immediate outbound transfers or involvement of high-risk countries. Often signals account takeover or pre-arranged laundering arrangement.
+
+Trade-based money laundering: Over or under invoicing of goods and services to transfer value across borders. Unusual payment patterns for imports or exports, payments to unrelated third parties, or prices that deviate significantly from market rates.

@@ -1,0 +1,11 @@
+FATF Recommendation 16 — Wire Transfers: Financial institutions must ensure that wire transfers include full originator and beneficiary information. Any wire transfer above €1,000 must include sender name, account number, and address. Missing information is grounds for refusing or suspending the transaction.
+
+EU 6th Anti-Money Laundering Directive (6AMLD): Extends criminal liability for money laundering to legal persons including companies. Introduces 22 predicate offences including cybercrime, tax crimes, and environmental crime. Member states must implement minimum 4-year imprisonment for money laundering convictions. Banks must report suspicious activity regardless of amount when intent to launder is suspected.
+
+EBA Guidelines on Risk Factors: Banks must apply enhanced due diligence for customers who are politically exposed persons (PEPs), customers in high-risk third countries, customers with complex ownership structures, and customers whose transactions have no apparent economic purpose. Cash-intensive businesses require enhanced ongoing monitoring.
+
+Danish FSA AML Rules: Cash transactions above DKK 50,000 (approximately €6,700) must be reported to the Danish Money Laundering Secretariat. Banks must file Suspicious Activity Reports (SARs) within 2 business days of suspicion arising. Failure to report carries fines up to DKK 10 million for institutions.
+
+EBA Guidelines on Correspondent Banking: Banks must not enter into or continue correspondent banking relationships with shell banks. Before establishing a relationship, banks must collect sufficient information about the respondent bank's AML controls and ownership structure. Wire transfers from unknown correspondent banks must be treated as high risk.
+
+Nordic Financial Intelligence Units (FIU): Denmark, Sweden, Norway, and Finland all operate Financial Intelligence Units that receive SARs from financial institutions. Cross-border cooperation is mandatory under the Nordic AML cooperation framework. Suspicious transactions involving any Nordic country counterparty should be reported to the relevant national FIU.

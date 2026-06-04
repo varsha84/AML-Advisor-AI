@@ -1,0 +1,12 @@
+{
+  "customerId": "C-8841",
+  "name": "Erik Johansson",
+  "country": "SE",
+  "accountType": "personal",
+  "accountAgeDays": 900,
+  "lastActivityDays": 210,
+  "transactions": [
+    { "id": "T-001", "amount": 45000, "type": "wire_in",  "timestamp": "2024-03-10T08:00:00", "counterpartyCountry": "NG", "description": "International wire received" },
+    { "id": "T-002", "amount": 44500, "type": "wire_out", "timestamp": "2024-03-10T16:30:00", "counterpartyCountry": "AE", "description": "Outbound transfer" }
+  ]
+}

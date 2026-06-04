@@ -1,0 +1,38 @@
+[
+  {
+    "id": "case_1042",
+    "text": "Customer made 5 cash deposits of amounts between €9,100 and €9,800 over 7 days at different branches. All deposits just below the €10,000 reporting threshold. Flagged as structuring. Decision: escalated to compliance analyst, SAR filed.",
+    "pattern": "structuring",
+    "outcome": "escalated"
+  },
+  {
+    "id": "case_1087",
+    "text": "Dormant account inactive for 14 months suddenly received €45,000 wire transfer from offshore entity in Nigeria. Full amount transferred out to UAE account within 48 hours. Flagged as rapid fund movement and dormant account activation. Decision: account frozen, SAR filed.",
+    "pattern": "rapid_fund_movement",
+    "outcome": "account_frozen"
+  },
+  {
+    "id": "case_1103",
+    "text": "Personal account received 12 small wire transfers from 12 different senders over 3 days totalling €28,000, then sent one outbound transfer of €27,500 to overseas account. Classic money mule layering pattern. Decision: account closed, referred to police.",
+    "pattern": "money_mule_pattern",
+    "outcome": "referred_to_police"
+  },
+  {
+    "id": "case_1121",
+    "text": "Business account showed regular salary payments for 6 months then went dormant for 4 months. Reactivated with €15,000 cash deposit followed immediately by wire transfer to high-risk jurisdiction. Pattern suggests pre-arranged laundering using dormant legitimate account.",
+    "pattern": "dormant_account_activation",
+    "outcome": "escalated"
+  },
+  {
+    "id": "case_1145",
+    "text": "Customer deposited €9,500 cash on Monday, €9,200 cash on Tuesday at a different branch, €9,900 cash on Thursday. Three deposits in one week all below reporting threshold. Total €28,600 in undeclared cash. Structuring confirmed by branch CCTV review.",
+    "pattern": "structuring",
+    "outcome": "SAR_filed"
+  },
+  {
+    "id": "case_1162",
+    "text": "Account received €5,000 each from 8 different individuals over 2 days. Total €40,000 received. The next day a single wire of €39,800 was sent to Panama. Senders were unrelated individuals with no business connection to account holder. Money mule behaviour confirmed.",
+    "pattern": "money_mule_pattern",
+    "outcome": "account_frozen"
+  }
+]

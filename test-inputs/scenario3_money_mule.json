@@ -1,0 +1,15 @@
+{
+  "customerId": "C-3391",
+  "name": "Maria Nielsen",
+  "country": "DK",
+  "accountType": "personal",
+  "accountAgeDays": 120,
+  "lastActivityDays": 2,
+  "transactions": [
+    { "id": "T-001", "amount": 5000, "type": "wire_in",  "timestamp": "2024-03-05T09:00:00", "counterpartyCountry": "DK", "description": "Transfer received" },
+    { "id": "T-002", "amount": 4800, "type": "wire_in",  "timestamp": "2024-03-05T10:00:00", "counterpartyCountry": "DK", "description": "Transfer received" },
+    { "id": "T-003", "amount": 5200, "type": "wire_in",  "timestamp": "2024-03-05T11:00:00", "counterpartyCountry": "DE", "description": "Transfer received" },
+    { "id": "T-004", "amount": 5100, "type": "wire_in",  "timestamp": "2024-03-05T12:00:00", "counterpartyCountry": "NL", "description": "Transfer received" },
+    { "id": "T-005", "amount": 19900, "type": "wire_out", "timestamp": "2024-03-06T08:30:00", "counterpartyCountry": "PA", "description": "Outbound transfer" }
+  ]
+}

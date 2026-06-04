@@ -1,0 +1,14 @@
+{
+  "customerId": "C-1042",
+  "name": "Lars Andersen",
+  "country": "DK",
+  "accountType": "personal",
+  "accountAgeDays": 540,
+  "lastActivityDays": 5,
+  "transactions": [
+    { "id": "T-001", "amount": 9500, "type": "cash_deposit", "timestamp": "2024-03-01T09:00:00", "counterpartyCountry": "", "description": "Cash deposit Copenhagen branch" },
+    { "id": "T-002", "amount": 9200, "type": "cash_deposit", "timestamp": "2024-03-02T11:30:00", "counterpartyCountry": "", "description": "Cash deposit Aarhus branch" },
+    { "id": "T-003", "amount": 9800, "type": "cash_deposit", "timestamp": "2024-03-04T14:00:00", "counterpartyCountry": "", "description": "Cash deposit Odense branch" },
+    { "id": "T-004", "amount": 9100, "type": "cash_deposit", "timestamp": "2024-03-05T10:15:00", "counterpartyCountry": "", "description": "Cash deposit Aalborg branch" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "customerId": "C-0021",
+  "name": "Anna Sørensen",
+  "country": "DK",
+  "accountType": "personal",
+  "accountAgeDays": 1200,
+  "lastActivityDays": 3,
+  "transactions": [
+    { "id": "T-001", "amount": 3500,  "type": "wire_in",          "timestamp": "2024-03-01T06:00:00", "counterpartyCountry": "DK", "description": "Monthly salary" },
+    { "id": "T-002", "amount": 1200,  "type": "wire_out",         "timestamp": "2024-03-03T10:00:00", "counterpartyCountry": "DK", "description": "Rent payment" },
+    { "id": "T-003", "amount": 85,    "type": "cash_withdrawal",  "timestamp": "2024-03-05T14:00:00", "counterpartyCountry": "",   "description": "ATM withdrawal" },
+    { "id": "T-004", "amount": 230,   "type": "cash_withdrawal",  "timestamp": "2024-03-10T18:00:00", "counterpartyCountry": "",   "description": "Grocery purchase" }
+  ]
+}
